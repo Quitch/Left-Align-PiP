@@ -1,7 +1,7 @@
 {
   "context": "client",
   "identifier": "com.quitch.qLeftalign-dev",
-  "display_name": "Left Align PiP",
+  "display_name": "Left Align PiP DEV",
   "description": "Moves the PiP to the bottom-left of the UI. The PiP button remains in the bottom-right. Unit selection and hover elements have been moved to the bottom-right.",
   "author": "Quitch",
   "version": "dev",
