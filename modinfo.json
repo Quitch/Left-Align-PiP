@@ -1,0 +1,27 @@
+{
+  "context": "client",
+  "identifier": "com.quitch.qLeftalign-dev",
+  "display_name": "Left Align PiP",
+  "description": "Moves the PiP to the bottom-left of the UI.",
+  "author": "Quitch",
+  "version": "dev",
+  "build": "112712",
+  "date": "2019/01/26",
+  "signature": " ",
+  "forum": "",
+  "icon": "",
+  "category":
+  [
+    "ui",
+    "classic",
+    "titans"
+  ],
+  "priority": 100,
+  "scenes":
+  {
+    "live_game":
+    [
+      "coui://ui/mods/com.quitch.qleftalign/live_game.css"
+    ]
+  }
+}

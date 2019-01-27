@@ -1,0 +1,25 @@
+.div_bottom_left {
+  left: auto !important;
+  right: 0
+}
+
+/*----- PIP
+-----------------------------------------------------------------*/
+
+holodeck.pip.bottom_right {
+  left: 1px;
+  right: auto !important;
+}
+
+/*----- SELECTION BAR
+-----------------------------------------------------------------*/
+.div_unit_selection_cont {
+  left: auto !important;
+  right: 0;
+}
+
+/*----- CHAT
+-----------------------------------------------------------------*/
+#chat {
+  bottom: calc(40% +50px) !important;
+}
