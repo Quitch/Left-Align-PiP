@@ -1,5 +1,5 @@
 # CHANGELOG
 
-## v1.0
+## v1.0 - 2019-01-27
 
 - Initial release
