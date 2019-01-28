@@ -1,10 +1,10 @@
 {
   "context": "client",
-  "identifier": "com.quitch.qLeftalign-dev",
-  "display_name": "Left Align PiP DEV",
+  "identifier": "com.quitch.qLeftalign",
+  "display_name": "Left Align PiP",
   "description": "Useful for anyone used to checking a minimap in the bottom-left, this mod moves the PiP from the right-side of the screen to the left. The button to enable the PiP remains in the bottom-right. Unit selection and unit hover elements have also been moved to the right.",
   "author": "Quitch",
-  "version": "dev",
+  "version": "1.0.1",
   "build": "112712",
   "date": "2019/01/28",
   "signature": " ",
