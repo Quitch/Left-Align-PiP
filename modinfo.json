@@ -2,13 +2,13 @@
   "context": "client",
   "identifier": "com.quitch.qLeftalign",
   "display_name": "Left Align PiP",
-  "description": "Moves the PiP to the bottom-left of the UI. The PiP button remains in the bottom-right. Unit selection and hover elements have been moved to the bottom-right.",
+  "description": "Useful for anyone used to checking a minimap in the bottom-left, this mod moves the PiP from the right-side of the screen to the left. The button to enable the PiP remains in the bottom-right. Unit selection and unit hover elements have also been moved to the right.",
   "author": "Quitch",
-  "version": "1.0",
-  "build": "112712",
-  "date": "2019/01/27",
+  "version": "1.0.1",
+  "build": "112747",
+  "date": "2019/01/28",
   "signature": " ",
-  "forum": "https://forums.planetaryannihilation.com/threads/pending-left-align-pip.73267/",
+  "forum": "https://forums.planetaryannihilation.com/threads/client-left-align-pip.73267/",
   "icon": "https://i.imgur.com/aWGv8zo.png",
   "category":
   [
