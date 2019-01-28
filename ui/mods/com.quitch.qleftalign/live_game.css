@@ -1,28 +1,28 @@
 /*----- UNIT HOVER INFO
 -----------------------------------------------------------------*/
 
-.div_bottom_left {
-  left: auto !important;
+div.div_bottom_left {
+  left: auto;
   right: 0
 }
 
 /*----- PIP
 -----------------------------------------------------------------*/
 
-holodeck.pip.bottom_right {
+holodeck.pip.pip.bottom_right {
   left: 1px;
-  right: auto !important;
+  right: auto;
 }
 
 /*----- SELECTION BAR
 -----------------------------------------------------------------*/
-.div_unit_selection_cont {
-  left: auto !important;
+div.div_unit_selection_cont {
+  left: auto;
   right: 0;
 }
 
 /*----- CHAT
 -----------------------------------------------------------------*/
-#chat {
-  bottom: calc(40% + 50px) !important;
+panel#chat {
+  bottom: calc(40% + 50px);
 }
