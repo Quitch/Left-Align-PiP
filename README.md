@@ -1,5 +1,4 @@
-Left Align PiP
-==============
+# Left Align PiP
 
 ![alt text](https://i.imgur.com/te1UmVS.png "Left Align PiP")
 

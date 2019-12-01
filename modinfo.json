@@ -10,18 +10,9 @@
   "signature": " ",
   "forum": "https://forums.planetaryannihilation.com/threads/client-left-align-pip.73267/",
   "icon": "https://i.imgur.com/aWGv8zo.png",
-  "category":
-  [
-    "ui",
-    "classic",
-    "titans"
-  ],
+  "category": ["ui", "classic", "titans"],
   "priority": 100,
-  "scenes":
-  {
-    "live_game":
-    [
-      "coui://ui/mods/com.quitch.qleftalign/live_game.css"
-    ]
+  "scenes": {
+    "live_game": ["coui://ui/mods/com.quitch.qleftalign/live_game.css"]
   }
 }
