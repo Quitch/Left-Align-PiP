@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## Unreleased
+
+- Fixed mod icon
+
 ## v1.0.1 - 2019-01-28
 
 - Replaced use of !important with specificity
